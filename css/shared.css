@@ -1,0 +1,14 @@
+body {
+    background-color: #F3E5AB;
+    background-image: url("../img/portal-background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#main {
+    height: calc(100vh - 80px);
+}
+
+#main .row {
+    height: 100%;
+}
